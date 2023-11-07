@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Caveat:wght@500&display=swap');
+
+body {
+    font-family: 'Caveat Brush', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+button {
+    font-size: 40px;
+    border-radius: 20px;
+    background-color: lightblue;
+    border: 0px;
+    padding: 10px 20px;
+}
+
+input {
+    font-size: 40px;
+    font-family: 'Caveat Brush', cursive;
+    text-align: center;
+    margin-left: 10px;
+    border: 2px solid black;
+}
